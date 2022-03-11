@@ -1,0 +1,20 @@
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\bin\Debug\Алгоритм дейкстры.exe.config
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\bin\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\bin\Debug\Алгоритм дейкстры.pdb
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\algarithm.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\Алгоритм_дейкстры.Form1.resources
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\Алгоритм_дейкстры.Properties.Resources.resources
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\algarithm.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\algarithm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\algarithm\obj\Debug\Алгоритм дейкстры.pdb
+C:\Users\hp\Desktop\algarithm\algarithm\bin\Debug\Алгоритм дейкстры.exe.config
+C:\Users\hp\Desktop\algarithm\algarithm\bin\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\algarithm\algarithm\bin\Debug\Алгоритм дейкстры.pdb
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\algarithm.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\Алгоритм_дейкстры.Form1.resources
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\Алгоритм_дейкстры.Properties.Resources.resources
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\algarithm.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\algarithm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\algarithm\algarithm\obj\Debug\Алгоритм дейкстры.pdb

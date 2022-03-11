@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\bin\Debug\Алгоритм дейкстры.exe.config
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\bin\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\bin\Debug\Алгоритм дейкстры.pdb
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Ç½ú«a¿G¼ ñÑ¬¬ßGad.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Алгоритм_дейкстры.Form1.resources
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Алгоритм_дейкстры.Properties.Resources.resources
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Ç½ú«a¿G¼ ñÑ¬¬ßGad.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Ç½ú«a¿G¼ ñÑ¬¬ßGad.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Алгоритм дейкстры.exe
+C:\Users\hp\Desktop\Ç½ú«a¿G¼ ñÑ¬¬ßGad\Ç½ú«a¿G¼ ñÑ¬¬ßGad\obj\Debug\Алгоритм дейкстры.pdb
